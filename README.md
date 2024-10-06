@@ -1,6 +1,6 @@
 # trend-and-seasonality
 
-# Time Series Decomposition: Trend and Seasonality
+# Time Series: Trend and Seasonality
 
 This repository contains a Python script that decomposes a time series (in this case, tourist numbers) into **trend** and **seasonality** components using a simple moving average technique. The script reads the time series from a CSV file, estimates the trend, and computes the seasonality before visualizing the results in three subplots.
 
